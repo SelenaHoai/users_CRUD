@@ -1,0 +1,41 @@
+.data {
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.border {
+  border: 2px solid purple;
+}
+.textbox-width {
+  width: 300px;
+}
+
+.main {
+  border: 1px solid blue;
+  width: 40%;
+  padding: 20px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.align-start {
+  align-items: flex-start;
+}
